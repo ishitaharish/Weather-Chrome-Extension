@@ -1,0 +1,15 @@
+{
+    "name": "Weather",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "A simple weather extension.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.4.png",
+        "default_title": "Weather"
+    },
+    "icons": {
+        "128": "logo.4.png"
+    },
+    "permissions": ["activeTab"]
+}
